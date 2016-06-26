@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>http://hacdan.org/</loc>
+    <lastmod>2016-06-25T16:38:01-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://hacdan.org/post/weekly_blog_post_challenge/</loc>
+    <lastmod>2016-06-25T16:38:01-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://hacdan.org/post/odroid_plus_minecraft/</loc>
+    <lastmod>2016-04-23T09:34:42-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://hacdan.org/post/moving_to_the_cloud/</loc>
+    <lastmod>2016-03-24T08:30:57-04:00</lastmod>
+  </url>
+  
+</urlset>
