@@ -6,13 +6,13 @@
     <description>Recent content in Posts on My Thoughts</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 30 Jun 2016 15:58:45 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 01 Jul 2016 15:58:45 -0400</lastBuildDate>
     <atom:link href="http://hacdan.org/post/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Dot Dot Dot Files</title>
       <link>http://hacdan.org/post/dot_dot_dot_files/</link>
-      <pubDate>Thu, 30 Jun 2016 15:58:45 -0400</pubDate>
+      <pubDate>Fri, 01 Jul 2016 15:58:45 -0400</pubDate>
       
       <guid>http://hacdan.org/post/dot_dot_dot_files/</guid>
       <description>
@@ -31,7 +31,7 @@
 
 &lt;p&gt;The most common would be your terminal profile, something like a bashrc or profile, but any configuration file that you use to customize your experience within an appication could be considered a &lt;em&gt;dotfile&lt;/em&gt;.&lt;/p&gt;
 
-&lt;h1 id=&#34;how-to-version-your-dotfiles-ref-https-developer-atlassian-com-blog-2016-02-best-way-to-store-dotfiles-git-bare-repo&#34;&gt;How to Version your Dotfiles : Ref: &lt;a href=&#34;https://developer.atlassian.com/blog/2016/02/best-way-to-store-dotfiles-git-bare-repo/&#34;&gt;https://developer.atlassian.com/blog/2016/02/best-way-to-store-dotfiles-git-bare-repo/&lt;/a&gt;&lt;/h1&gt;
+&lt;h1 id=&#34;how-to-version-your-dotfiles&#34;&gt;How to Version your Dotfiles&lt;/h1&gt;
 
 &lt;p&gt;Now, because these files give users customization and time shortcuts, they do require some time to be put into them. Because of this, it is best to keep your dotfiles backed up, or better yet versioned. For myself, I&amp;rsquo;ve recently finally made the leap and started versioning them. While they still need to be cleaned up, &lt;a href=&#34;https://github.com/HacDan/DotFiles&#34;&gt;here&lt;/a&gt; they are. Right now this contains my tmux.conf, vimrc, and bashrc. I&amp;rsquo;ll be cleaning these up over the next couple of days, as they&amp;rsquo;re a bit of a mess, and I recently started rebuilding my bashrc, so that one is still a bit bare and needs some organization. For the most part this is what I use on a daily basis to help improve my workflow.&lt;/p&gt;
 
