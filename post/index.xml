@@ -6,11 +6,67 @@
     <description>Recent content in Posts on My Thoughts</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 22 Jul 2016 09:44:01 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 29 Jul 2016 09:45:24 -0400</lastBuildDate>
     <atom:link href="http://hacdan.org/post/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Pixels Everywhere! Hardware Review(2 of 3)</title>
+      <title>Sweet Sweet Nougats (3 of 4)</title>
+      <link>http://hacdan.org/post/sweet_sweet_nougats/</link>
+      <pubDate>Fri, 29 Jul 2016 09:45:24 -0400</pubDate>
+      
+      <guid>http://hacdan.org/post/sweet_sweet_nougats/</guid>
+      <description>
+
+&lt;h1 id=&#34;stable-as-much-as-my-8-month-old&#34;&gt;Stable? As much as my 8 month old&lt;/h1&gt;
+
+&lt;p&gt;So, the big question on everyones mind when it comes to the beta preview of Android Nougat is stability. I see it everywhere posted on forums, articles, and blog posts. For the most part, on Developer Preview 5, it is very stable. I&amp;rsquo;ve had pretty good luck with it so far, with no crashes as of writing. Now that doesn&amp;rsquo;t mean I wwon&amp;rsquo;t have crashes, but for now, it&amp;rsquo;s all good in the hood.&lt;/p&gt;
+
+&lt;p&gt;Now that is only speaking for the operating system. In regards to apps running on the system, the story isn&amp;rsquo;t so rosey. Mainly I&amp;rsquo;ve had issues with social networking sites that use the camera, such as Google Plus or Fenix for Twitter. These have crashed a few times in use, but not to the point I was worried. In regards to other apps I&amp;rsquo;m using, it&amp;rsquo;s not a long list.&lt;/p&gt;
+
+&lt;p&gt;I have Microsoft Word installed, but I honestly haven&amp;rsquo;t used it for more than a few minutes to test out the cool factor of using a well made tablet app. Mainly what I am using is as follows.
+* JuiceSSH - SSH&amp;rsquo;ing into my server in the cloud.
+* Termux - Local terminal, which will probably replace JuiceSSh once I&amp;rsquo;m happy with the styling piece that&amp;rsquo;s currently broken on Android Nougat.
+* GReader - RSS aggrigator. I don&amp;rsquo;t use this as much on the tablet, I use this more on my phone, but it&amp;rsquo;s there incase I want to digest an article or two.
+* GMail - My prefered email application. I&amp;rsquo;ve tried to switch to Inbox, but it&amp;rsquo;s just not for me.
+* Google Drive Suite - I&amp;rsquo;m a heavy Google &amp;ldquo;Docs&amp;rdquo; user, so this was a must have. So far so good, although the document editing software seems a bit lacking for tablet support. It works, but far from optimal.
+* Evernote - Perfect for creating new notes and searching for old notes. Well optimized for the tablet.
+* Trello - I&amp;rsquo;m still experimenting with the platform, it&amp;rsquo;s installed, looks great on a tablet, but I&amp;rsquo;m still getting used to it.&lt;/p&gt;
+
+&lt;p&gt;That&amp;rsquo;s about it for apps that I&amp;rsquo;m using for productivity. Of course I have a lot of media consumption apps installed on the tablet, but those are pretty standard fair.&lt;/p&gt;
+
+&lt;h1 id=&#34;multitasking&#34;&gt;Multitasking&lt;/h1&gt;
+
+&lt;p&gt;Multitasking on a tablet with Android Nougat. In a word, it&amp;rsquo;s &amp;lsquo;cool&amp;rsquo;. I haven&amp;rsquo;t made much use of it yet, though, as it&amp;rsquo;s rare that I&amp;rsquo;m working between two apps locally on the tablet. For the most part I&amp;rsquo;m using a tmux session in the cloud that splits the window up for me, negating the need for multiwindow on the tablet it self.&lt;/p&gt;
+
+&lt;p&gt;Alt-tab is quick, though, and seems much improved over the early reviews, of course this tablet has seen many improvements over the past few months, so I suppose that&amp;rsquo;s no surprise. This also goes along with..&lt;/p&gt;
+
+&lt;h1 id=&#34;context-switching&#34;&gt;Context Switching&lt;/h1&gt;
+
+&lt;p&gt;This, was an area that I wanted to imporove on when moving my entire workflow to a tablet and a remote server, and, it&amp;rsquo;s awesome. I&amp;rsquo;m so happy with things so far. It has been an adventure to say the least, but a fun one. While some areas have been challenging in regards to moving my workflow, they are good challenges as I&amp;rsquo;m forced to learn the intracies of the build process as opposed to hiding them behind a few buttons in an IDE. I feel my wrists are now in much better shape due to eleviating the mouse and moving to a more keyboard focused workflow.&lt;/p&gt;
+
+&lt;h1 id=&#34;weefee&#34;&gt;Weefee&lt;/h1&gt;
+
+&lt;p&gt;Another major drawback of the initial reviews was the wifi performance. I&amp;rsquo;m leaving this under software only because after updating the device, it seems to perform much better, even side by side with my Nexus 6. While things drop out a bit in one corner of my house, all of my devices tend to have trouble there, so I&amp;rsquo;m not chalking it up to the tablet itself and more of the wifi coverage in my home.&lt;/p&gt;
+
+&lt;h1 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h1&gt;
+
+&lt;p&gt;All in all, I&amp;rsquo;d say software wise, this has met my expecations, but I don&amp;rsquo;t think that&amp;rsquo;s a bad thing. I did &lt;em&gt;a lot&lt;/em&gt; of research before purchasing this device, and Androud Nougat has been just icing on the cake. I&amp;rsquo;d say if you&amp;rsquo;re on the fence, and you find purchasing a premium device to be worth it, go for it, you won&amp;rsquo;t be let down by the software. And even though this workflow isn&amp;rsquo;t for everyone, I&amp;rsquo;d say it&amp;rsquo;s worth giving a shot, I don&amp;rsquo;t think you&amp;rsquo;ll be dissapointed, just as long as you don&amp;rsquo;t set your expecations through the roof.&lt;/p&gt;
+
+&lt;p&gt;Until next time!&lt;/p&gt;
+
+&lt;h3 id=&#34;read-more-in-this-series&#34;&gt;Read more in this series&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://hacdan.org/post/christmas_in_july/&#34;&gt;Overview&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://hacdan.org/post/pixels_everywhere_%28review%29/&#34;&gt;Hardware Review&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://hacdan.org/post/sweet_sweet_nougats/&#34;&gt;Software Review&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Conclution&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Pixels Everywhere! Hardware Review(2 of 4)</title>
       <link>http://hacdan.org/post/pixels_everywhere_%28review%29/</link>
       <pubDate>Fri, 22 Jul 2016 09:44:01 -0400</pubDate>
       
@@ -38,11 +94,20 @@
 &lt;h1 id=&#34;worth-it&#34;&gt;Worth it?&lt;/h1&gt;
 
 &lt;p&gt;Well, is it worth the high price tag that Google is charging for it? I think so, without any doubt. The hardware alone is quite close to perfect, feels great in the hand, and is well engineered. The software, while it is Android, I think is well suited for this tablet, but I&amp;rsquo;ll get into that more next week. Hardware wise though, I&amp;rsquo;m keeping it, despite my few issues with it.&lt;/p&gt;
+
+&lt;h3 id=&#34;read-more-in-this-series&#34;&gt;Read more in this series&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://hacdan.org/post/christmas_in_july/&#34;&gt;Overview&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://hacdan.org/post/pixels_everywhere_%28review%29/&#34;&gt;Hardware Review&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://hacdan.org/post/sweet_sweet_nougats/&#34;&gt;Software Review&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Conclution&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     
     <item>
-      <title>Christmas in July - 1 of 3</title>
+      <title>Christmas in July - 1 of 4</title>
       <link>http://hacdan.org/post/christmas_in_july/</link>
       <pubDate>Tue, 19 Jul 2016 09:40:01 -0400</pubDate>
       
@@ -68,6 +133,15 @@
 &lt;p&gt;So where do we go from here? Well, as mentioned in a previous post, I had planned on moving to a tablet and keyboard setup, and that is exactly what I did. The night the machine sold I promptly hopped on the Google Store page and ordered up a Pixel C and Keyboard. Those should be arriving today(19th). I can&amp;rsquo;t wait to get home and unbox them and start using them. Over the next couple of posts I&amp;rsquo;ll have a hardware and software review of the device, so look for that starting this Friday!&lt;/p&gt;
 
 &lt;p&gt;Stay tuned!&lt;/p&gt;
+
+&lt;h3 id=&#34;read-more-in-this-series&#34;&gt;Read more in this series&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://hacdan.org/post/christmas_in_july/&#34;&gt;Overview&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://hacdan.org/post/pixels_everywhere_%28review%29/&#34;&gt;Hardware Review&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://hacdan.org/post/sweet_sweet_nougats/&#34;&gt;Software Review&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Conclution&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     
