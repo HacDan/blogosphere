@@ -6,8 +6,45 @@
     <description>Recent content in Posts on My Thoughts</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 29 Jul 2016 09:45:24 -0400</lastBuildDate>
+    <lastBuildDate>Sat, 06 Aug 2016 11:09:02 -0400</lastBuildDate>
     <atom:link href="http://hacdan.org/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Pixel (C)onclusion Part 4 of 4</title>
+      <link>http://hacdan.org/post/pixel_conclusion/</link>
+      <pubDate>Sat, 06 Aug 2016 11:09:02 -0400</pubDate>
+      
+      <guid>http://hacdan.org/post/pixel_conclusion/</guid>
+      <description>
+
+&lt;h1 id=&#34;worth-it&#34;&gt;Worth It?&lt;/h1&gt;
+
+&lt;p&gt;Was it? Worth the ridiculous amout of cash to drop on a machine that really has less power than a 4 year old laptop? I&amp;rsquo;m not sure. There may have been a different tablet I could have purchased, along with a different keyboard accessory that would have accomplished the same thing. I could have used the money elsewhere that I could have saved to purchase other gadgets. What it really boils down to though is I wanted something that would last. This is a quality piece of hardware that I hope to get 3-4 years out of at least, and I believe this was the piece of hardware to do that.&lt;/p&gt;
+
+&lt;p&gt;For someone else just looking to jump into this without spending too much cash, I would not recommend this tablet. I&amp;rsquo;d go with something cheaper and a different keyboard accessory just to try out the workflow, because if you can&amp;rsquo;t adapt, then you&amp;rsquo;re stuck with something you probably won&amp;rsquo;t be able to sell and won&amp;rsquo;t be able to live with.&lt;/p&gt;
+
+&lt;p&gt;All that being said, if I had a chance to do this again, I would. Hands down, no questions asked. The hardware is top notch, the software will be there with the release of Nougat(The Beta for now is awesome, though.), so ya, worth it for me.&lt;/p&gt;
+
+&lt;h1 id=&#34;where-to-from-here&#34;&gt;Where To From Here&lt;/h1&gt;
+
+&lt;p&gt;Now what though? New hardware to play with, new software to write; where do I go from here? Hopefully on to a more productive self. I just finished up a vacation in Florida and work is a bit busy at the moment so I haven&amp;rsquo;t been working a whole lot on side projects, so I hope that once things calm down at work, I&amp;rsquo;ll be back at it writing more and more in this new workflow. I can say it has been more than capable to get me through my day to day tasks of my personal data management and emails, which is awesome. Now just to optimize the software development side of my workflow for use on this thing, and I&amp;rsquo;ll be golden.&lt;/p&gt;
+
+&lt;h1 id=&#34;final-thougths&#34;&gt;Final Thougths&lt;/h1&gt;
+
+&lt;p&gt;Wrapping things up is this: I&amp;rsquo;d buy it again, it was totally worth it, and yes, Android can be a full-time operating system as long as what you&amp;rsquo;re looking for is basic computing. Antyhing else you&amp;rsquo;ll need to either augment your current workflow, or write tools to accomplish your current workflow in the manner in which you do now. For me, I&amp;rsquo;ve already adapted to the workflow, and I really only have a few things to work out that I can&amp;rsquo;t accomplish between the tablet and the DigitalOcean instance I have set up, and I already know how I want to tackle these challenges, it&amp;rsquo;s just a matter of doing so.&lt;/p&gt;
+
+&lt;p&gt;Stay Tuned!&lt;/p&gt;
+
+&lt;h3 id=&#34;read-more-in-this-series&#34;&gt;Read more in this series&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://hacdan.org/post/christmas_in_july/&#34;&gt;Overview&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://hacdan.org/post/pixels_everywhere_%28review%29/&#34;&gt;Hardware Review&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://hacdan.org/post/sweet_sweet_nougats/&#34;&gt;Software Review&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://hacdan.org/post/pixel_conclusion/&#34;&gt;Conclution&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>Sweet Sweet Nougats (3 of 4)</title>
@@ -52,7 +89,7 @@
 
 &lt;p&gt;All in all, I&amp;rsquo;d say software wise, this has met my expecations, but I don&amp;rsquo;t think that&amp;rsquo;s a bad thing. I did &lt;em&gt;a lot&lt;/em&gt; of research before purchasing this device, and Androud Nougat has been just icing on the cake. I&amp;rsquo;d say if you&amp;rsquo;re on the fence, and you find purchasing a premium device to be worth it, go for it, you won&amp;rsquo;t be let down by the software. And even though this workflow isn&amp;rsquo;t for everyone, I&amp;rsquo;d say it&amp;rsquo;s worth giving a shot, I don&amp;rsquo;t think you&amp;rsquo;ll be dissapointed, just as long as you don&amp;rsquo;t set your expecations through the roof.&lt;/p&gt;
 
-&lt;p&gt;Until next time!&lt;/p&gt;
+&lt;p&gt;Until next time, stay tuned!&lt;/p&gt;
 
 &lt;h3 id=&#34;read-more-in-this-series&#34;&gt;Read more in this series&lt;/h3&gt;
 
@@ -60,7 +97,7 @@
 &lt;li&gt;&lt;a href=&#34;http://hacdan.org/post/christmas_in_july/&#34;&gt;Overview&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://hacdan.org/post/pixels_everywhere_%28review%29/&#34;&gt;Hardware Review&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://hacdan.org/post/sweet_sweet_nougats/&#34;&gt;Software Review&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Conclution&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://hacdan.org/post/pixel_conclusion/&#34;&gt;Conclution&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
@@ -101,7 +138,7 @@
 &lt;li&gt;&lt;a href=&#34;http://hacdan.org/post/christmas_in_july/&#34;&gt;Overview&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://hacdan.org/post/pixels_everywhere_%28review%29/&#34;&gt;Hardware Review&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://hacdan.org/post/sweet_sweet_nougats/&#34;&gt;Software Review&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Conclution&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://hacdan.org/post/pixel_conclusion/&#34;&gt;Conclution&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
@@ -140,7 +177,7 @@
 &lt;li&gt;&lt;a href=&#34;http://hacdan.org/post/christmas_in_july/&#34;&gt;Overview&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://hacdan.org/post/pixels_everywhere_%28review%29/&#34;&gt;Hardware Review&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://hacdan.org/post/sweet_sweet_nougats/&#34;&gt;Software Review&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Conclution&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://hacdan.org/post/pixel_conclusion/&#34;&gt;Conclution&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
