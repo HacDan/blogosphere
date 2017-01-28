@@ -6,8 +6,44 @@
     <description>Recent content in Posts on My Thoughts</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 20 Aug 2016 10:54:36 -0400</lastBuildDate>
+    <lastBuildDate>Sat, 28 Jan 2017 21:10:15 -0400</lastBuildDate>
     <atom:link href="http://hacdan.org/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Just Do It</title>
+      <link>http://hacdan.org/post/just_do_it/</link>
+      <pubDate>Sat, 28 Jan 2017 21:10:15 -0400</pubDate>
+      
+      <guid>http://hacdan.org/post/just_do_it/</guid>
+      <description>
+
+&lt;p&gt;So, I failed. There&amp;rsquo;s no other way to put it, I haven&amp;rsquo;t posted in a few months now, so, that&amp;rsquo;s a fail. No way around it, so I&amp;rsquo;ll just lay it out there. I could go on and on about why I haven&amp;rsquo;t posted, but that doesn&amp;rsquo;t matter. This was a no excuse, just do it kind of situation, and I didn&amp;rsquo;t.&lt;/p&gt;
+
+&lt;p&gt;Now before you go thinking this is a woe is me, I failed, feel sorry for me, that&amp;rsquo;s not the vibe I&amp;rsquo;m going for. In fact, this is more of the opposite that anything else. Keep reading, I don&amp;rsquo;t think you&amp;rsquo;ll be disappointed.&lt;/p&gt;
+
+&lt;p&gt;For a while now, I&amp;rsquo;ve had many projects running. This could be programming projects, hardware hacking projects, home improvement projects, you name it, I had something along those lines going. I know, I know, everyone does, and that&amp;rsquo;s normal, but for me, I never liked finishing them. The excitement of starting a new project was all I was ever looking for, and once that excitement faded, I would stop and move onto something new. We probably all do this at some point in our life, and as I said, I don&amp;rsquo;t see anyhing wrong with it.&lt;/p&gt;
+
+&lt;p&gt;BUT. You have to go back and finish things at some point. For me, I&amp;rsquo;ve tried to do that so many times, that I end up just starting the project over, at least if that&amp;rsquo;s an option, and of course, I get that new excitement back, which quickly fades, and well, you know the drill. These past two weeks though, I&amp;rsquo;ve been trying to not just start projects, or work on ones in progress, but to actually finish some. Here&amp;rsquo;s what I&amp;rsquo;ve learned.&lt;/p&gt;
+
+&lt;h1 id=&#34;there-s-joy-in-completion&#34;&gt;There&amp;rsquo;s Joy In Completion&lt;/h1&gt;
+
+&lt;p&gt;The first thing I noticed when I started crossing items off my TODO list was the feeling I felt. It wasn&amp;rsquo;t a bland feeling of accomplishment, it was joy. I was happy to have finished something that I had started. While, I can say, it is not the same amount of joy as starting a new project, there was a bit of happiness puslating through me.&lt;/p&gt;
+
+&lt;h1 id=&#34;perserverance-is-key&#34;&gt;Perserverance Is Key&lt;/h1&gt;
+
+&lt;p&gt;This one was a big one to learn, and honestly I&amp;rsquo;m still learning it. The main take away is that while some may tell you not to power through on a project if you&amp;rsquo;re not motivated, I think at least getting to a workable point in a project is more beneficial then taking a break and coming back. While I don&amp;rsquo;t think this is the answer for every project, I feel it can be very useful if you&amp;rsquo;ve already, say, written a program in your head and need to get it down in code. I do this all the time. I work out the basic skeleton in my head, but then after I get the technically challenging aspect written, I stop. I have so many projects like this in ~/code that I won&amp;rsquo;t count, as it would be too depressing.&lt;/p&gt;
+
+&lt;p&gt;The key here, though, is get to a working prototype, even if it means leaving out some details that you&amp;rsquo;ll add later. This way you have something working to achieve that point of accomplishment.&lt;/p&gt;
+
+&lt;h1 id=&#34;just-do-it&#34;&gt;Just Do It&lt;/h1&gt;
+
+&lt;p&gt;Finally, just do it. I know this term has become quite cliche at this point, but it is sound advice. Just write that blog post, or code that not so technical portion of the project. You&amp;rsquo;ll be glad you did. Even if you need to go back and change something later (HINT: You Will), at least you&amp;rsquo;ll have your idea worked out to the point where it&amp;rsquo;s now refining instead of creating, and that, of course, is easier on the mind.&lt;/p&gt;
+
+&lt;p&gt;I&amp;rsquo;m hoping to become a bit more regular with these posts now that I&amp;rsquo;m knocking out projects. I&amp;rsquo;m in the middle of writing a pretty basic CRUD REST API that has a web and mobile front end that I should have a few things to say about. This will be my first dive into reactjs and all of it&amp;rsquo;s fun components that go along with it, so expect that soonish.&lt;/p&gt;
+
+&lt;p&gt;Until next time&amp;hellip;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Joys of (Soy)lent</title>
